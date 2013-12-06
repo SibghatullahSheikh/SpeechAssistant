@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/wave1"
+        android:layout_width="85dp"
+        android:layout_height="85dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/wave"
+        android:contentDescription="@null"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/wave2"
+        android:layout_width="85dp"
+        android:layout_height="85dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/wave"
+        android:contentDescription="@null"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/wave3"
+        android:layout_width="85dp"
+        android:layout_height="85dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/wave"
+        android:contentDescription="@null"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/wave4"
+        android:layout_width="85dp"
+        android:layout_height="85dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/wave"
+        android:contentDescription="@null"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/wave5"
+        android:layout_width="85dp"
+        android:layout_height="85dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/wave"
+        android:contentDescription="@null"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/wave6"
+        android:layout_width="85dp"
+        android:layout_height="85dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/wave"
+        android:contentDescription="@null"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/wave7"
+        android:layout_width="85dp"
+        android:layout_height="85dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/wave"
+        android:contentDescription="@null"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/wave8"
+        android:layout_width="85dp"
+        android:layout_height="85dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/wave"
+        android:contentDescription="@null"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/wave9"
+        android:layout_width="85dp"
+        android:layout_height="85dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/wave"
+        android:contentDescription="@null"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/wave10"
+        android:layout_width="85dp"
+        android:layout_height="85dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/wave"
+        android:contentDescription="@null"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/wave11"
+        android:layout_width="85dp"
+        android:layout_height="85dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/wave"
+        android:contentDescription="@null"
+        android:visibility="gone" />
+
+</FrameLayout>
