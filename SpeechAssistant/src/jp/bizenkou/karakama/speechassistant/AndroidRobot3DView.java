@@ -86,7 +86,7 @@ public class AndroidRobot3DView extends RendererActivity implements
 
 		IParser myParser = Parser.createParser(Parser.Type.MAX_3DS,
 				getResources(),
-				"jp.bizenkou.karakama.SampleTypeD:raw/squared_robot_3ds", false);
+				"jp.bizenkou.karakama.speechassistant:raw/squared_robot_3ds", false);
 		myParser.parse();
 
 		androidRobot3DObject = myParser.getParsedObject();
